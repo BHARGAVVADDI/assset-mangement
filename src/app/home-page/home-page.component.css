@@ -1,0 +1,16 @@
+.form-popup {
+    
+    display:none;
+    position:fixed;
+    top: 20%;
+    bottom: 45%;
+    right: 45%;
+   
+    z-index: 1;
+  }
+  .form-container {
+
+    max-width: 300px;
+    padding: 10px;
+    background-color: white;
+  }
